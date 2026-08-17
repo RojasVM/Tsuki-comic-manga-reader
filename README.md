@@ -6,3 +6,5 @@ Si tuviera que resumirlo en una cuantas frases, diría:
 (que son ZIP de imágenes), la app los descarga, los descomprime en el navegador
 y muestra las páginas. Funciona en Safari iOS, Android y escritorio, y se puede
 "Agregar a pantalla de inicio" como PWA"
+
+Esto es parte de un proyecto para hackclub, a quien agradezco enormemente por apoyar a jóvenes a desarrollar su talento en la informática y la robótica.
